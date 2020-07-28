@@ -1,3 +1,5 @@
-github "jspahrsummers/xcconfigs" "3d9d996"
-github "Quick/Quick" ~> 2.0
-github "Quick/Nimble" ~> 8.0.1
+#github "jspahrsummers/xcconfigs" "3d9d996"
+#github "Quick/Quick" ~> 2.0
+#github "Quick/Nimble" ~> 8.0.1
+git "file:///Users/mariuslandwehr/Developer/macOS/Quick" == 2.2.1
+git "file:////Users/mariuslandwehr/Developer/macOS/Nimble" "Swift5.3"
